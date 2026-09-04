@@ -7,7 +7,7 @@ about:
   head: d6d9699
   archived: false
   latestVersion: v1.1.4
-  collectedAt: 2026-09-04T19:24:18Z
+  collectedAt: 2026-09-04T21:11:29Z
 timeline:
   created: 2020-03-14
   lastCommit: 2023-08-20
@@ -80,6 +80,29 @@ total:
   openIssue: 16
   commit: 249
 ---
+path: /home/runner/.x-repo/github.com/guumaster/hostctl
+collectedAt: 2026-09-04T21:11:30Z
+loc:
+  Go:
+    code: 4914
+    comments: 179
+    blanks: 1313
+    files: 82
+  Json:
+    code: 15
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 176
+    blanks: 89
+    files: 3
+total:
+  code: 4929
+  comments: 355
+  blanks: 1402
+  files: 86
 ---
 date: "2026-08-24"
 repo:
