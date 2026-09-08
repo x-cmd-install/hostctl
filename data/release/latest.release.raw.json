@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 787,
       "digest": null,
-      "download_count": 1215,
+      "download_count": 1216,
       "created_at": "2023-05-02T12:26:28Z",
       "updated_at": "2023-05-02T12:26:28Z",
       "browser_download_url": "https://github.com/guumaster/hostctl/releases/download/v1.1.4/hostctl_1.1.4_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3584870,
       "digest": null,
-      "download_count": 223165,
+      "download_count": 223268,
       "created_at": "2023-05-02T12:26:27Z",
       "updated_at": "2023-05-02T12:26:27Z",
       "browser_download_url": "https://github.com/guumaster/hostctl/releases/download/v1.1.4/hostctl_1.1.4_linux_64-bit.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3344272,
       "digest": null,
-      "download_count": 29913,
+      "download_count": 29925,
       "created_at": "2023-05-02T12:26:27Z",
       "updated_at": "2023-05-02T12:26:28Z",
       "browser_download_url": "https://github.com/guumaster/hostctl/releases/download/v1.1.4/hostctl_1.1.4_linux_arm64.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3250067,
       "digest": null,
-      "download_count": 31531,
+      "download_count": 31542,
       "created_at": "2023-05-02T12:26:26Z",
       "updated_at": "2023-05-02T12:26:26Z",
       "browser_download_url": "https://github.com/guumaster/hostctl/releases/download/v1.1.4/hostctl_1.1.4_linux_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3575914,
       "digest": null,
-      "download_count": 3969,
+      "download_count": 3970,
       "created_at": "2023-05-02T12:26:27Z",
       "updated_at": "2023-05-02T12:26:27Z",
       "browser_download_url": "https://github.com/guumaster/hostctl/releases/download/v1.1.4/hostctl_1.1.4_macOS_arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3710827,
       "digest": null,
-      "download_count": 1649,
+      "download_count": 1650,
       "created_at": "2023-05-02T12:26:26Z",
       "updated_at": "2023-05-02T12:26:26Z",
       "browser_download_url": "https://github.com/guumaster/hostctl/releases/download/v1.1.4/hostctl_1.1.4_windows_64-bit.zip"
