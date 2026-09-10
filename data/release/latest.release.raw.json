@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3584870,
       "digest": null,
-      "download_count": 224460,
+      "download_count": 224973,
       "created_at": "2023-05-02T12:26:27Z",
       "updated_at": "2023-05-02T12:26:27Z",
       "browser_download_url": "https://github.com/guumaster/hostctl/releases/download/v1.1.4/hostctl_1.1.4_linux_64-bit.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3704918,
       "digest": null,
-      "download_count": 113122,
+      "download_count": 113150,
       "created_at": "2023-05-02T12:26:27Z",
       "updated_at": "2023-05-02T12:26:28Z",
       "browser_download_url": "https://github.com/guumaster/hostctl/releases/download/v1.1.4/hostctl_1.1.4_linux_amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3344272,
       "digest": null,
-      "download_count": 30991,
+      "download_count": 31394,
       "created_at": "2023-05-02T12:26:27Z",
       "updated_at": "2023-05-02T12:26:28Z",
       "browser_download_url": "https://github.com/guumaster/hostctl/releases/download/v1.1.4/hostctl_1.1.4_linux_arm64.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3250067,
       "digest": null,
-      "download_count": 32598,
+      "download_count": 32981,
       "created_at": "2023-05-02T12:26:26Z",
       "updated_at": "2023-05-02T12:26:26Z",
       "browser_download_url": "https://github.com/guumaster/hostctl/releases/download/v1.1.4/hostctl_1.1.4_linux_arm64.tar.gz"
