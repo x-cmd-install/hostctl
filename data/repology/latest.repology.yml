@@ -1,3 +1,12 @@
+- repo: wakemeops
+  subrepo: terminal
+  binname: hostctl
+  visiblename: hostctl
+  version: 1.1.1
+  origversion: 1.1.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: altsisyphus
   srcname: hostctl
   binnames:
@@ -45,7 +54,7 @@
   binname: hostctl
   visiblename: sysutils/hostctl
   version: 1.1.4
-  origversion: 1.1.4_34
+  origversion: 1.1.4_35
   status: newest
   summary: Command-line tool to manage your hosts file
   maintainers:
@@ -151,15 +160,6 @@
   visiblename: hostctl
   version: 1.1.2
   origversion: 1.1.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: hostctl
-  visiblename: hostctl
-  version: 1.1.1
-  origversion: 1.1.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
